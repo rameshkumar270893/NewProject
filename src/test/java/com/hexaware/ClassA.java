@@ -21,5 +21,15 @@ public class ClassA {
 		System.out.println("4");
 
 	}
+	
+	private void method5() {
+		System.out.println("5");
+
+	}
+	
+	private void method6() {
+		System.out.println("6");
+
+	}
 
 }
